@@ -7,7 +7,7 @@ on:
     branches: [ master ]
 
 jobs:
-  Execute tests:
+  Execute-tests:
     name: Run tests using various node.js versions
     runs-on: ubuntu-latest
 
